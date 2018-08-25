@@ -12,7 +12,7 @@ author:
   linkedin: "https://br.linkedin.com/in/odineiribeiro"
 
 # Build settings
-baseurl: http://codewithchopsticks.github.io
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
