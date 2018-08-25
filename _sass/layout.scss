@@ -54,6 +54,7 @@
 
 #nav-menu {
   @include icon-position(right);
+  position: absolute;
 }
 
 #nav-menu-left {
