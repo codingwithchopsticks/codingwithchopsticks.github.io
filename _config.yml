@@ -1,0 +1,42 @@
+# Site settings
+title: Code with Chopsticks
+subtitle: Code. Easy as use chopsticks (mostly)
+description: "Blog posts about code..."
+url: "http://www.jacoporabolini.com/emerald"
+author:
+  name: "Odinei Ribeiro"
+  email: "odineiramone@gmail.com.com"
+  url: "http://codewithchopsticks.github.io"
+  github: "http://www.github.com/odineiribeiro"
+  telegram: "https://t.me/odineiramone"
+  linkedin: "https://br.linkedin.com/in/odineiribeiro"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page/:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
