@@ -1,6 +1,6 @@
 ---
 title: How to pass arguments to a Rake task
-description: here are many ways how to pass an argument to a rake task, some of these are covered in at this blog post.
+description: There are many ways how to pass an argument to a rake task, some of these are covered in at this blog post.
 ---
 
 <small>
