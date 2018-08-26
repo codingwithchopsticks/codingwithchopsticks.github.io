@@ -3,13 +3,20 @@ title: Code with Chopsticks
 subtitle: Code. Easy as use chopsticks (mostly)
 description: "Blog posts about code..."
 url: "codewithchopsticks.github.io"
+logo: "/img/rice.svg"
+image: "/img/rice.svg"
 author:
   name: "Odinei Ribeiro"
   email: "odineiramone@gmail.com.com"
   url: "http://codewithchopsticks.github.io"
-  github: "http://www.github.com/odineiramone"
+  github: "http://github.com/odineiramone"
   telegram: "https://t.me/odineiramone"
   linkedin: "https://br.linkedin.com/in/odineiribeiro"
+  twitter: "https://twitter.com/odineiramone"
+
+twitter:
+  username: odineiramone
+  card: summary
 
 # Build settings
 baseurl: /
@@ -32,6 +39,7 @@ defaults:
 # Plugins
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Custom variables
 version: "1.1.0"
