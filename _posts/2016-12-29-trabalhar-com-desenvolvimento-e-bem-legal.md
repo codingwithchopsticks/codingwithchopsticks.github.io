@@ -98,3 +98,5 @@ Vai faltar espaço nesse texto caso eu resolva contar em detalhes tudo o que tem
 6. Se envolva, vá a eventos. Eventos grandes, encontros, pesquise por projetos no Github. Faça o que for, mas não fique parado!
 
 Bem, eu fico por aqui! Agora, no final, me sinto feliz de tê-lo escrito. Espero que possa ajudar as pessoas que, assim como eu, estão começando nesse mundo de programador de computador!
+
+{% include disqus.html %}

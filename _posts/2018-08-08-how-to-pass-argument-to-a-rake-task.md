@@ -59,3 +59,5 @@ Thanks! 😄
   - [4 Ways to Pass Arguments to a Rake Task](https://cobwwweb.com/4-ways-to-pass-arguments-to-a-rake-task#method-1-the-rake-way)
   - [How to pass arguments into a Rake task with environment in Rails?](https://stackoverflow.com/questions/1357639/how-to-pass-arguments-into-a-rake-task-with-environment-in-rails/5393324#5393324)
   - [What's the 'environment' task in Rake?](https://stackoverflow.com/questions/7044714/whats-the-environment-task-in-rake/18617481#18617481)
+
+{% include disqus.html %}
