@@ -1,16 +1,18 @@
-<header id="header">
-	<a href="/">
-		<img src="{{ "/img/rice.svg" | prepend: site.baseurl | replace: '//', '/' }}" alt="Emerald Logo">
-	  <h2>Coding with Chopsticks</h2>
-	</a>
-	<nav>
-		<small>
-			<!-- <span><a class="social-links" target="_blank"href="{{ site.author.github }}">Github</a> | </span>
-			<span><a class="social-links" target="_blank"href="{{ site.author.telegram }}">Telegram</a> | </span>
-			<span><a class="social-links" target="_blank"href="{{ site.author.linkedin }}">LinkedIn</a> | </span>
-			<span><a class="social-links" target="_blank"href="mailto:{{ site.author.email }}">Email</a></span> -->
-			<span><a class="social-links" target="_self" href="/">Home</a> | </span>
-			<span><a class="social-links" target="_self" href="/about">About</a></span>
-		</small>
-	</nav>
+<header class="header">
+	<aside class="logo">
+
+		{% if page.url == '/index.html' or page.url == '/' %}
+			{% assign link = '/about' %}
+			{% assign prompt = 'About Code with Chopsticks' %}
+		{% else %}
+			{% assign link = '/' %}
+			{% assign prompt = 'Back to Index' %}
+		{% endif %}
+
+		<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
+			<img src="{{ site.logo_url }}" class="logo-avatar">
+		</a>
+		<span class="logo-prompt code">{{ prompt }}</span>
+
+	</aside>
 </header>

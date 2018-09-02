@@ -1,10 +1,11 @@
 ---
-title: “… trabalhar com desenvolvimento é bem legal!”
+title: … trabalhar com desenvolvimento é bem legal!
 description: Setembro, Rubyconf Brasil e essa história não começa aqui!
+updated: 2016-12-29 23:37
 ---
 
 
-![Rubyconf 2016](/img/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/1.jpeg "Rubyconf 2016")
+![Rubyconf 2016](/assets/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/1.jpeg "Rubyconf 2016")
 <small>
   *Rubyconf 2016 (peguei essa foto no [blog da Plataformatec](http://blog.plataformatec.com.br/2016/09/highlights-of-rubyconf-brazil-2016/))*
 </small>
@@ -29,7 +30,7 @@ No final de 2015 entrei num processo seletivo para trabalhar na [Locaweb](http:/
 
 Ao final dos desafios, seguiram uma dinâmica de grupo na sede da Locaweb e, em Janeiro desse ano, segui para a penúltima fase do processo seletivo foi um curso de 6 semanas na [Campus Code](http://www.campuscode.com.br/), um bootcamp de programação focado em desenvolvimento em Ruby
 
-![Campus Code](/img/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/2.jpeg "Campus Code")
+![Campus Code](/assets/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/2.jpeg "Campus Code")
 <small>
   *Um dos primeiros dias na Campus Code, eu estou de preto à esquerda com cara de assustado.*
 </small>
@@ -76,7 +77,7 @@ Depois desse, tive a oportunidade de ir em vários: GURU-SP, ELUG, RubyConf, iMa
 
 Tomei uma verdadeira paixão por ir em eventos, conhecer outros desenvolvedores, conversar, trocar experiências.
 
-![Eventos, eventos, eventos!](/img/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/3.jpeg "Eventos, eventos, eventos!")
+![Eventos, eventos, eventos!](/assets/2016-12-29-trabalhar-com-desenvolvimento-e-bem-legal/3.jpeg "Eventos, eventos, eventos!")
 <small>
   *Eventos, eventos, eventos!*
 </small>
@@ -98,5 +99,3 @@ Vai faltar espaço nesse texto caso eu resolva contar em detalhes tudo o que tem
 6. Se envolva, vá a eventos. Eventos grandes, encontros, pesquise por projetos no Github. Faça o que for, mas não fique parado!
 
 Bem, eu fico por aqui! Agora, no final, me sinto feliz de tê-lo escrito. Espero que possa ajudar as pessoas que, assim como eu, estão começando nesse mundo de programador de computador!
-
-{% include disqus.html %}

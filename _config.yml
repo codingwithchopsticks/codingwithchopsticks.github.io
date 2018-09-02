@@ -1,50 +1,53 @@
-# Site settings
-title: Code with Chopsticks
-subtitle: Code. Easy as use chopsticks (mostly)
-description: "Blog posts about code..."
-url: "codewithchopsticks.github.io"
-logo: "/img/rice.svg"
-image: "/img/rice.svg"
+# Site Info
+title:              "Coding with Chopsticks"
+description:        "Code. Easy as use chopsticks (mostly)"
+author_name:        "Odinei Ribeiro" # change this to your name
+logo_url:           assets/rice.svg # Get it from GitHub API: https://api.github.com/users/<username>
+
 author:
-  name: "Odinei Ribeiro"
   email: "odineiramone@gmail.com"
-  url: "http://codewithchopsticks.github.io"
-  github: "http://github.com/odineiramone"
+  url: "https://codewithchopsticks.github.io"
+  github: "https://github.com/odineiramone"
   telegram: "https://t.me/odineiramone"
   linkedin: "https://br.linkedin.com/in/odineiribeiro"
   twitter: "https://twitter.com/odineiramone"
 
-twitter:
-  username: odineiramone
-  card: summary
+# Site Settings
+url:                https://codingwithchopsticks.github.io # main url
+baseurl:            # /
+permalink:          /:title # Post permalink
+timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
-# Build settings
-baseurl: /
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 5
-paginate_path: /page/:num/
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
 
-# Default values
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path:         ""
     values:
-      layout: "post"
-
-# Plugins
-gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

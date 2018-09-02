@@ -4,7 +4,7 @@ description: There are many ways how to pass an argument to a rake task, some of
 ---
 
 <small>
-  ![Osaka Prefecture, Japan](/img/2018-08-08-how-to-pass-argument-to-a-rake-task/1.jpg "Osaka Prefecture, Japan")
+  ![Osaka Prefecture, Japan](/assets/2018-08-08-how-to-pass-argument-to-a-rake-task/1.jpg "Osaka Prefecture, Japan")
   *Photo by [Lukas](https://unsplash.com/photos/80UpjrtFxLA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tokio-night?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 </small>
 
@@ -59,5 +59,3 @@ Thanks! 😄
   - [4 Ways to Pass Arguments to a Rake Task](https://cobwwweb.com/4-ways-to-pass-arguments-to-a-rake-task#method-1-the-rake-way)
   - [How to pass arguments into a Rake task with environment in Rails?](https://stackoverflow.com/questions/1357639/how-to-pass-arguments-into-a-rake-task-with-environment-in-rails/5393324#5393324)
   - [What's the 'environment' task in Rake?](https://stackoverflow.com/questions/7044714/whats-the-environment-task-in-rake/18617481#18617481)
-
-{% include disqus.html %}
