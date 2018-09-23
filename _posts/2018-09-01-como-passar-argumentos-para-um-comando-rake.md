@@ -1,6 +1,6 @@
 ---
 title: Como passar argumentos para um comando Rake
-description: THá muitas maneiras de passar um argumento para um comando Rake, algumas delas são abordadas neste blog post.
+description: Há muitas maneiras de passar um argumento para um comando Rake, algumas delas são abordadas neste blog post.
 updated: 2016-08-08 23:37
 ---
 
