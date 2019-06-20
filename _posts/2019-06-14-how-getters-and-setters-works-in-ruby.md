@@ -1,7 +1,7 @@
 ---
-title: Como funcionam os getters e setters no Ruby?
+title: How getters and setters works in Ruby?
 description: 
-updated: 2019-06-14 20:46
+updated: 2019-06-15 20:47
 ---
 
 <small>
