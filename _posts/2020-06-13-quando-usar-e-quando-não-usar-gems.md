@@ -32,7 +32,7 @@ Eu gosto de usar gems quando eu preciso de uma solução que não seja o foco do
 
 Outra situação onde eu posso usar uma gem é para validação de CPF. Denovo, isso não é o core do meu negócio e eu posso delegar isso para uma gem. Porém validar CPF não é algo tão complexo como autenticação. Eu posso fazer uma [validação mais simples](https://www.campuscode.com.br/conteudos/codigo-ruby-para-calculo-de-validacao-de-cpf), por exemplo, e não ter uma dependência desse tipo no meu projeto.
 
-Vamos ver outro caso aqui: Eu tenho uma loja online e preciso cotar frete nos correios e em empresas de entregas. Isso é parte do meu negócio, posso delegar para uma gem? Posso (porém eu não sei se existem gems que façam isso). Porém eu teria uma dependência externa de um código que eu não tenho muito controle. Se eu fizer essa pesquisa de frete na minha aplicação, eu tenho muito mais controle das consultas e posso utilizar esses dados com mais inteligência e exibir um comparativo das empresas que fazem entregas, por exemplo.
+Vamos ver outro caso aqui: Eu tenho uma loja online e preciso cotar frete nos correios e em empresas de entregas. Isso é parte do meu negócio, posso delegar para uma gem? Posso (apesar de não conhecer nenhuma gem que faça isso), porém eu teria uma dependência externa de um código que eu não tenho muito controle. Se eu fizer essa pesquisa de frete na minha aplicação, eu tenho muito mais controle das consultas e posso utilizar esses dados com mais inteligência e exibir um comparativo das empresas que fazem entregas, por exemplo.
 
 ## Um pouco mais de lenha na fogueira 🔥
 
@@ -49,7 +49,7 @@ O próprio [README do Devise recomenda *não* usá-lo se você estiver construin
   *Screenshot do README do Devise*
 </small>
 
-_Tradução: Iniciando com Rails? Se você estiver construindo sua primeira aplicação Rails, nós recomendamos que você não use o Devise. O Devise requer um bom conhecimento do Rails. Nestes casos, nós recomendamos que você começe com uma autenticação básica. Aqui tem algumas fontes que podem te ajudar (fontes em inglês):_
+_Tradução: Iniciando com Rails? Se você estiver construindo sua primeira aplicação Rails, nós recomendamos que você não use o Devise. O Devise requer um bom conhecimento do Rails. Nestes casos, nós recomendamos que você começe com uma autenticação feita do zero. Aqui tem algumas fontes que podem te ajudar (fontes em inglês):_
 
 - _O livro do Michael Hartl: [https://www.railstutorial.org/book/modeling_users](https://www.railstutorial.org/book/modeling_users)_
 
