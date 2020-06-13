@@ -9,7 +9,7 @@ updated: 2016-08-08 03:32
   *Photo by [Brendan Church](https://unsplash.com/@bdchu614) on [Unsplash](https://unsplash.com/s/photos/choose?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 </small>
 
-> Essa pergunta foi feita pelo Leonardo Fragozo lá no [canal Ruby Brasil no Telegram](https://t.me/rubybrasil) e achei bacana postar a resposta em forma de texto para servir de consulta para quem mais tiver esse tipo de dúvida.
+> Essa pergunta foi feita pelo [Leonardo Fragozo](https://github.com/LeoFragozo) lá no [canal Ruby Brasil no Telegram](https://t.me/rubybrasil) e achei bacana postar a resposta em forma de texto para servir de consulta para quem mais tiver esse tipo de dúvida.
 
 Nesse texto eu falo um pouco sobre a minha forma de pensar quando me deparo com essa questão. Não sei se a minha opinião é a opinião da maioria das pessoas na comunidade Ruby porém espero que você termine de ler esse texto e tenha um pouco mais de insumos para te ajudar a decidir quando usar e quando não usar gems.
 
