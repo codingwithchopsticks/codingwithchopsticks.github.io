@@ -9,7 +9,7 @@ updated: 2020-06-30 03:32
   *Capa do álbum "¡Adiós Amigos!" dos Ramones. Foto disponível em [Anomalia Distro](https://anomaliadistro.com.br/produtos/ramones-adios-amigos-lp/). Acessado em 30/06/2020.*
 </small>
 
-Bom, nem sempre as coisas acontecem como esperamos e, as vezes, precisamos desinstalar o Rails. Seja para fazer downgrade de versão, para corrigir alguma coisa na instalação ou porque você simplesmente não gostamos do framework #triste.
+Bom, nem sempre as coisas acontecem como esperamos e, as vezes, precisamos desinstalar o Rails. Seja para fazer downgrade de versão, para corrigir alguma coisa na instalação ou porque simplesmente não gostamos do framework (#triste).
 
 A idéia de fazer esse post me veio depois que [um amigo](https://github.com/MoisesBorges) me perguntou como ele poderia desinstalar o Rails para instalar uma versão mais antiga. Obrigado Moisés por todas as perguntas muito instigantes que você tem me feito durante seu processo de aprender Rails!
 
@@ -19,7 +19,7 @@ E se por acaso você queira instalar a última versão do Rails, você pode segu
 
 Tudo o que vou fazer aqui foi feito no meu computador pessoal, ele roda o MacOS 10.15.5, Ruby 2.7.1 gerenciado pelo ASDF e o meu terminal é o kitty 🐱💻.
 
-(Para quem não entendeu o porquê de eu ter dado essas informações, acho boa prática dizer qual ambiente eu estou utilizando para realizar aqueles comandose e isso não quer dizer que você não vai conseguir seguir esse tutorial se tiver um ambiente totalmente diferente do meu. Caso tenha alguma dificuldade, fique a vontade para postar nos comentários desse post 😊)
+(Para quem não entendeu o porquê de eu ter dado essas informações, acho boa prática dizer qual ambiente eu estou utilizando para realizar os procedimentos e isso não quer dizer que você não vai conseguir seguir esse tutorial se tiver um ambiente totalmente diferente do meu. Caso tenha alguma dificuldade, fique a vontade para postar nos comentários desse post 😊)
 
 ## Mãos à obra!
 
