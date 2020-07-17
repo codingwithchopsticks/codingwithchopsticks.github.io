@@ -177,7 +177,7 @@ O `attr_writer` pode ser um pouco estranho de entender quando usar, afinal, para
 
 A resposta é simples: Você pode querer um valor para fazer alguma operação com ele e retorna-lo de uma forma diferente. Vamos ver um exemplo:
 
-```ruby
+```bash
 > eu = Humano.new('odinei')
 => #<Humano:0x00007fd577a279a8 @nome="odinei">
 > eu.nome
