@@ -24,7 +24,7 @@ Em código ruby, um objeto com *getters* e *setters* seria assim:
 ```ruby
 class Humano
   # aqui eu inicializo meu objeto apenas
-  # com o atibuto nome:
+  # com o atributo nome:
   def initialize(nome)
     @nome = nome
   end
